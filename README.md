@@ -80,7 +80,7 @@
 
 [Jared Fiacco](https://www.linkedin.com/in/jaredfiacco/) - jaredfiacco2@gmail.com
 
-My Similar Project: [Transcribe Podcasts, Save to GCP Firebase](https://github.com/jaredfiacco2/FirebasePodcastTranscription)
+Another GCP Project of Mine: [Transcribe Podcasts, Save to GCP Firebase](https://github.com/jaredfiacco2/FirebasePodcastTranscription)
 
 
 
