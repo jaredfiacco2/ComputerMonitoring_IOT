@@ -6,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/jaredfiacco2/FirebasePodcastTranscription">
-    <img src="images/transcript.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/jaredfiacco2/ComputerMonitoring_IOT">
+    <img src="images/computerstats.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Monitor Computer's Stats, Store in Google Cloud</h3>
@@ -70,7 +70,7 @@
 <img src="images\Step2_CloudFunctions.png" alt="set up cloud fucntions" />
 
 5. Use Pub/Sub Metrics and Logs to troubleshoot any issues you have.
-<img src="images\CloudFunctions_Metrics.png" alt="check pub/sub metrics and logs" />
+<img src="images\Step3_CloudFunctions_Metrics.png" alt="check pub/sub metrics and logs" />
 
 6. Use BigQuery to check query your computers' stats over time.
 <img src="images\Step4_BigQuery.png" alt="use BigQuery to query the stats" />
