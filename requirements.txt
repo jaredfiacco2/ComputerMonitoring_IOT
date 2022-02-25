@@ -1,0 +1,15 @@
+pandas
+pandas-gbq
+google-auth
+google-cloud-pubsub
+time
+#For utils.py
+psutil
+platform
+socket
+re
+uuid
+logging
+subprocess
+#For Subscriber.py only
+futures
